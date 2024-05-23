@@ -1,0 +1,46 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/BasicShapes/Sphere.uasset",
+				"C:/Users/nezyl/Downloads/BezierCurve/Content/BP_BezierFollow.uasset",
+				"C:/Users/nezyl/Downloads/BezierCurve/Content/ExampleScene.umap",
+				"C:/Users/nezyl/Downloads/BezierCurve/Content/FXVarietyPack/Particles/P_ky_fireBall.uasset",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/VREditor/UI/DiscMaterial.uasset",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/VREditor/UI/KeyDiskMaterial.uasset",
+				"C:/Users/nezyl/Downloads/BezierCurve/Content/football_ball/source/Ballon_UV_Resetpose3.uasset",
+				"C:/Users/nezyl/Downloads/BezierCurve/Content/football_ball/textures/T_Soccerball_E.uasset",
+				"C:/Users/nezyl/Downloads/BezierCurve/Content/football_ball/textures/T_Soccerball_R.uasset",
+				"C:/Users/nezyl/Downloads/BezierCurve/Content/football_ball/textures/T_Soccerball_AO.uasset",
+				"C:/Users/nezyl/Downloads/BezierCurve/Content/football_ball/textures/Ballon_UV_Resetpose3_DefaultMaterial_Norma.uasset",
+				"C:/Users/nezyl/Downloads/BezierCurve/Content/football_ball/textures/T_Soccerball_A.uasset",
+				"C:/Users/nezyl/Downloads/BezierCurve/Content/football_ball/textures/internal_ground_ao_texture.uasset",
+				"C:/Users/nezyl/Downloads/BezierCurve/Content/football_ball/textures/T_Soccerball_M.uasset",
+				"C:/Users/nezyl/Downloads/BezierCurve/Content/football_ball/textures/blue_ball.uasset",
+				"C:/Users/nezyl/Downloads/BezierCurve/Content/ball.uasset",
+				"C:/Users/nezyl/Downloads/BezierCurve/Content/bezierrr/BP_BezierFollow.uasset",
+				"C:/Users/nezyl/OneDrive/Documentos/Unreal Projects/MyProject7/Content/BP_BezierFollow.uasset",
+				"C:/Users/nezyl/OneDrive/Documentos/Unreal Projects/MyProject7/Content/FXVarietyPack/Particles/P_ky_waterBall.uasset",
+				"C:/Users/nezyl/OneDrive/Documentos/Unreal Projects/MyProject7/Content/FXVarietyPack/Materials/MI_ky_smoke01c.uasset",
+				"C:/Users/nezyl/OneDrive/Documentos/Unreal Projects/MyProject7/Content/FXVarietyPack/Materials/M_ky_smoke01.uasset",
+				"C:/Users/nezyl/OneDrive/Documentos/Unreal Projects/MyProject7/Content/FXVarietyPack/Textures/T_ky_noise6.uasset",
+				"C:/Users/nezyl/OneDrive/Documentos/Unreal Projects/MyProject7/Content/FXVarietyPack/Textures/T_ky_smoke1.uasset",
+				"C:/Users/nezyl/OneDrive/Documentos/Unreal Projects/MyProject7/Content/football_ball/textures/blue_ball.uasset",
+				"C:/Users/nezyl/OneDrive/Documentos/Unreal Projects/MyProject7/Content/football_ball/textures/Ballon_UV_Resetpose3_DefaultMaterial_Norma.uasset",
+				"C:/Users/nezyl/OneDrive/Documentos/Unreal Projects/MyProject7/Content/football_ball/textures/T_Soccerball_A.uasset",
+				"C:/Users/nezyl/OneDrive/Documentos/Unreal Projects/MyProject7/Content/football_ball/textures/T_Soccerball_AO.uasset",
+				"C:/Users/nezyl/OneDrive/Documentos/Unreal Projects/MyProject7/Content/football_ball/textures/T_Soccerball_E.uasset",
+				"C:/Users/nezyl/OneDrive/Documentos/Unreal Projects/MyProject7/Content/football_ball/textures/T_Soccerball_M.uasset",
+				"C:/Users/nezyl/OneDrive/Documentos/Unreal Projects/MyProject7/Content/football_ball/textures/T_Soccerball_R.uasset",
+				"C:/Users/nezyl/Downloads/BezierCurve/Content/bezier.umap",
+				"C:/Users/nezyl/Downloads/BezierCurve/Content/BP_BezierFollow1.uasset",
+				"C:/Users/nezyl/Downloads/BezierCurve/Content/BP_BezierFollow2.uasset",
+				"C:/Users/nezyl/OneDrive/Documentos/Unreal Projects/Bezier_Curve/Content/bezier.umap",
+				"C:/Users/nelso/Desktop/BezierCurve/Content/ExampleScene.umap"
+			]
+		}
+	]
+}
