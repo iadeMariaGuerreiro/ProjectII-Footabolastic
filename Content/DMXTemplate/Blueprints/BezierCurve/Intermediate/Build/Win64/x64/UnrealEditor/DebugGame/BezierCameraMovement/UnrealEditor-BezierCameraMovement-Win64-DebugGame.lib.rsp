@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-BezierCameraMovement-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Unreal\ProjectII-Footabolastic\Content\DMXTemplate\Blueprints\BezierCurve\Intermediate\Build\Win64\x64\BezierCameraMovementEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.Cpp20.InclOrderUnreal5_0.h.obj"
+"C:\Unreal\ProjectII-Footabolastic\Content\DMXTemplate\Blueprints\BezierCurve\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\BezierCameraMovement\BezierCameraMovement.init.gen.cpp.obj"
+"C:\Unreal\ProjectII-Footabolastic\Content\DMXTemplate\Blueprints\BezierCurve\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\BezierCameraMovement\BezierCPPExampleActor.gen.cpp.obj"
+"C:\Unreal\ProjectII-Footabolastic\Content\DMXTemplate\Blueprints\BezierCurve\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\BezierCameraMovement\BFL_BezierCurve.gen.cpp.obj"
+"C:\Unreal\ProjectII-Footabolastic\Content\DMXTemplate\Blueprints\BezierCurve\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\BezierCameraMovement\BezierCameraMovement.cpp.obj"
+"C:\Unreal\ProjectII-Footabolastic\Content\DMXTemplate\Blueprints\BezierCurve\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\BezierCameraMovement\BezierCPPExampleActor.cpp.obj"
+"C:\Unreal\ProjectII-Footabolastic\Content\DMXTemplate\Blueprints\BezierCurve\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\BezierCameraMovement\BFL_BezierCurve.cpp.obj"
+"C:\Unreal\ProjectII-Footabolastic\Content\DMXTemplate\Blueprints\BezierCurve\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\BezierCameraMovement\Default.rc2.res"
+/OUT:"C:\Unreal\ProjectII-Footabolastic\Content\DMXTemplate\Blueprints\BezierCurve\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\BezierCameraMovement\UnrealEditor-BezierCameraMovement-Win64-DebugGame.lib"

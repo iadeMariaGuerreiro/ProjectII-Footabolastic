@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Unreal\\ProjectII-Footabolastic\\Content\\DMXTemplate\\Blueprints\\BezierCurve\\Source\\BezierCameraMovement\\BezierCameraMovement.Build.cs",
+		"C:\\Unreal\\ProjectII-Footabolastic\\Content\\DMXTemplate\\Blueprints\\BezierCurve\\Source\\BezierCameraMovement.Target.cs",
+		"C:\\Unreal\\ProjectII-Footabolastic\\Content\\DMXTemplate\\Blueprints\\BezierCurve\\Source\\BezierCameraMovementEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
