@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BezierCameraMovement",
+			"Path": "..\\Source\\BezierCameraMovement.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BezierCameraMovementEditor",
+			"Path": "..\\Source\\BezierCameraMovementEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

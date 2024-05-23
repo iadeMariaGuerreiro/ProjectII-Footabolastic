@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BezierCameraMovement.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BezierCameraMovement.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BezierCameraMovementEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\BezierCameraMovement.sln.DotSettings.user" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BezierCameraMovement">
+      <UniqueIdentifier>{CC55C88D-B7D0-3C0C-941F-D2B002E84FDE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BezierCameraMovement\BezierCameraMovement.Build.cs">
+      <Filter>Source\BezierCameraMovement</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BezierCameraMovement\BezierCameraMovement.cpp">
+      <Filter>Source\BezierCameraMovement</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BezierCameraMovement\BezierCameraMovement.h">
+      <Filter>Source\BezierCameraMovement</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BezierCameraMovement\BezierCPPExampleActor.cpp">
+      <Filter>Source\BezierCameraMovement</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BezierCameraMovement\BezierCPPExampleActor.h">
+      <Filter>Source\BezierCameraMovement</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BezierCameraMovement\BFL_BezierCurve.cpp">
+      <Filter>Source\BezierCameraMovement</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BezierCameraMovement\BFL_BezierCurve.h">
+      <Filter>Source\BezierCameraMovement</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
